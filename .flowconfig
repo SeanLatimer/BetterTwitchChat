@@ -1,0 +1,16 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/.*/spec/.*
+.*/node_modules/config-chain/test/broken.json
+<PROJECT_ROOT>/battlecry/*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+suppress_comment=.*\\$FlowFixMe.*
+suppress_comment=.*\\$FlowIssue.*
+
+[strict]

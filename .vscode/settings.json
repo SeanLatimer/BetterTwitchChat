@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["bettertwitchchat"],
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "discord.enabled": false,
+  "eslint.enable": true
+}
